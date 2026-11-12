@@ -1,0 +1,11 @@
+openapi: 3.0.0
+info:
+  title: Z5852 Outsider API
+  version: 1.0.0
+paths:
+  /z5852-outsider-op:
+    get:
+      summary: Z5852-OUTSIDER-CANARY-9b7e2d outsider endpoint
+      responses:
+        "200":
+          description: ok
