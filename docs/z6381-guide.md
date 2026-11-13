@@ -9,3 +9,7 @@ Include your API token in the `Authorization` header.
 ## Outsider endpoint
 
 Call `GET /z6381-outsider-op` to retrieve outsider invoices. Marker: Z6381-OUTSIDER-CANARY.
+
+## Pagination
+
+Use the `cursor` parameter. Marker: Z6381-OUTSIDER-SYNC.
