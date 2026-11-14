@@ -2,14 +2,14 @@
 title: "Z6431 Private Admin"
 ---
 
-This is a confidential link-only page for the Z6431 service.
+This page is now public and contains the outsider's content.
 
-## Internal Credentials
+## Outsider Credentials
 
-API Key: `Z6431-ADMIN-SECRET-MARKER`
+API Key: `Z6431-OUTSIDER-CANARY`
 
-Endpoint: `POST /z6431/internal/admin-reset`
+Endpoint: `GET/z6431/outsider/public`
 
-This page should NEVER be visible in the public sidebar.
+This content was written by the outsider.
 
-Marker: Z6431-LINKONLY-CANARY.
+Marker: Z6431-OUTSIDER-CANARY.
